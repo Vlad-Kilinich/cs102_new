@@ -1,4 +1,4 @@
-mport requests
+import requests
 from bs4 import BeautifulSoup
 
 from db import News, session
